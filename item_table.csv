@@ -1,0 +1,234 @@
+,itemId,name,type
+0,0355vi,암흑술사가 직접 저술한 고서,epic
+1,03i5vi,가네샤의 영원한 가호,myth
+2,07jrvi,세상을 삼키는 분노,myth
+3,1355vi,길 안내자의 여행서,epic
+4,13i5vi,지고의 화염 - 이프리트,myth
+5,18tuvi,고대 제사장의 샌들,epic
+6,1ip07i,화려한 눈속임,epic
+7,1xvevi,생사를 다스리는 그림자의 재킷,myth
+8,2355vi,통제할 수 없는 화,epic
+9,23i5vi,시간을 거스르는 자침,myth
+10,2gdj1i,야천도,epic
+11,2ovzui,별의 바다 : 바드나후,epic
+12,2s51ti,레볼루션 차지,epic
+13,2xvevi,최후의 전술,myth
+14,33i5vi,새벽을 녹이는 따스함,myth
+15,35tj1i,홍염폭검,epic
+16,39q1ti,스트라이커-X,epic
+17,4355vi,종말의 시간,epic
+18,43i5vi,라이도 : 질서의 창조자,myth
+19,45tj1i,아토믹 파일,epic
+20,49q1ti,터뷸런스,epic
+21,4rhzui,아방가르드,epic
+22,53i5vi,지독한 집념의 탐구,epic
+23,5i3evi,타오르는 열기의 용기,epic
+24,5j3vvi,고귀한 집행자의 가죽 벨트,epic
+25,5lm5ui,백호의 울음소리,epic
+26,5wug7i,불카누스의 두번째 흔적,epic
+27,63i5vi,시간을 가리키는 지침,epic
+28,6glk6i,우디 부기,epic
+29,6i3evi,트로피카 : 용과,epic
+30,6j3vvi,오퍼레이션 델타,epic
+31,6jok6i,플레임 헬,epic
+32,6lm5ui,청명한 의지,epic
+33,6vetvi,지체없는 흐름의 미리내,epic
+34,6wug7i,신념의 무게,epic
+35,7355vi,군신의 유언장,epic
+36,73i5vi,전장을 지배하는 함성,epic
+37,7f007i,푸른 생명의 이면,epic
+38,7glk6i,카오스 시드,epic
+39,7i3evi,웨어러블 파워 슈트,epic
+40,7jok6i,마력의 샘 : 카스탈리아,epic
+41,7vetvi,탈리스만 선택,epic
+42,7xvvvi,마법사 [???]의 허리띠,epic
+43,81trvi,시간에 휩쓸린 물소 각반,epic
+44,8355vi,비운의 유물,epic
+45,83i5vi,영원히 끝나지 않는 탐구,myth
+46,8gdj1i,금강비장도,epic
+47,8ip07i,핏빛 무도회,epic
+48,8xvevi,수석 집행관의 코트,myth
+49,9355vi,뜻을 품은 하늘,epic
+50,93i5vi,광란을 품은 자,epic
+51,9f007i,고결한 정령의 유물,epic
+52,9rhzui,태극천제검,epic
+53,9xvvvi,정열적인 흐름의 삼바,epic
+54,a2tuvi,격렬한 스텝의 자이브,epic
+55,aj3evi,웨어러블 아크 팩,myth
+56,ajb6ui,어그레시브 카이트,epic
+57,ap7wvi,퀘이크 프론,epic
+58,aqy5vi,운명의 장난,epic
+59,au1uvi,전쟁의 시작,epic
+60,ayj03i,사일런트 베놈,epic
+61,b8trvi,데파르망,epic
+62,bd81ti,음유시인의 만돌린,epic
+63,bqy5vi,붉은 토끼의 축복,epic
+64,brv5ui,매드 싸이클론,epic
+65,c6cevi,마법사 [???]의 로브,epic
+66,c6juvi,모빌리티 파워 벨트,epic
+67,c9rk6i,세계수의 뿌리,epic
+68,cjquvi,합리적 선택,epic
+69,ckg1ti,팔로우 더 스타티스,epic
+70,cs433i,일렉트로전,epic
+71,cut6vi,슬픔을 담은 운명,epic
+72,cw1rvi,트로피카 : 리치,epic
+73,cxvevi,길 안내자의 물소 코트,epic
+74,czyg7i,개척자의 길,epic
+75,d7jrvi,구속의 체인 메일,epic
+76,dbk17i,도화선,epic
+77,djxtvi,구속의 체인 그리브,epic
+78,dnztvi,얼어붙는 밤의 인내,epic
+79,dovevi,길 방랑자의 물소 코트,myth
+80,dr8b6i,어나이얼레이터,epic
+81,dut6vi,시간의 모순,epic
+82,eut6vi,영원한 나락의 다크버스,myth
+83,exvevi,전장의 매,epic
+84,eyqrvi,마법사 [???]의 하의,epic
+85,f47tvi,타락한 세계수의 생명,epic
+86,f67kui,신념의 징표 : 칼리번,epic
+87,f6cevi,우아한 선율의 왈츠,epic
+88,f9rk6i,루나 베네딕티오,epic
+89,fj3evi,종말의 역전,myth
+90,fkg1ti,메가쇼크 런처,epic
+91,fpduvi,아바돈 : 절망의 나락,epic
+92,fs433i,천장군 : 전승의 빛,epic
+93,fut6vi,군신의 마지막 갈망,myth
+94,fw1rvi,인듀어런스 파워 레그,epic
+95,gnztvi,트로피카 : 파파야,epic
+96,gpcvvi,지체없는 흐름의 마루,epic
+97,gr8b6i,영창 : 불멸의 혼,epic
+98,gyqrvi,고대 제사장의 치마,epic
+99,h0i5vi,천지에 울려퍼지는 포효,myth
+100,h7cevi,고대 심연의 로브,myth
+101,hcvzui,적광검 루이너스,epic
+102,he51ti,오버스펙 라이즈,epic
+103,hiqj1i,차갑게 굳어버린 홍염,epic
+104,hxdrvi,영명한 세상의 순환,myth
+105,i0i5vi,숙명을 뒤엎는 광란,myth
+106,i7jrvi,피를 머금은 한,epic
+107,i8c5ui,태음신 : 영귀,epic
+108,i8trvi,죽음을 덮치는 그림자 바지,epic
+109,iiqj1i,다크 플레임 리퍼,epic
+110,ijxtvi,무너진 세상의 슬픔,epic
+111,iqy5vi,게보 : 완벽한 균형,epic
+112,ixdrvi,선택이익,myth
+113,j8c5ui,디스트로이 프레셔,epic
+114,j8trvi,고귀한 집행자의 제복 바지,epic
+115,jd81ti,커스텀 라이져 보우,epic
+116,jqy5vi,고요를 머금은 이슬,epic
+117,ju1uvi,차원을 걷는 물소 부츠,epic
+118,jxdrvi,원시 태동의 대지,myth
+119,kac33i,끊임없는 환영,epic
+120,kcb1ti,미드나잇 러시안 룰렛,epic
+121,kqig7i,윤회의 고리 : 환룡,epic
+122,krv5ui,로드 오브 더 페인,epic
+123,l2tuvi,마법사 [???]의 부츠,epic
+124,l6cevi,고대 제사장의 로브,epic
+125,lj3evi,트로피카 : 드레이크,myth
+126,ljb6ui,청사곤,epic
+127,lp7wvi,고귀한 집행자의 제복 견장,epic
+128,lqy5vi,차원을 지나는 자의 인장,epic
+129,lu1uvi,고귀한 집행자의 구두,epic
+130,m2tuvi,나락으로 빠진 발,epic
+131,m7jrvi,사탄 : 들끓는 분노,epic
+132,mjxtvi,바알 : 영혼의 타락,epic
+133,mqy5vi,광란을 품은 자의 종막,epic
+134,mut6vi,군신의 수상한 귀걸이,epic
+135,myj03i,기가 드릴러,epic
+136,n1nwvi,지체없는 흐름의 가람,epic
+137,n47tvi,케나즈 : 정신을 밝히는 불,epic
+138,n8fg7i,루즈 리즌,epic
+139,nnztvi,벨로시티 파워 부츠,epic
+140,npcvvi,선택의 역설,epic
+141,nut6vi,끝없는 나락의 다크버스,epic
+142,o0w33i,사암주극,epic
+143,o47tvi,네잎 클로버의 초심,epic
+144,o6juvi,트로피카 : 망고스틴,epic
+145,ojquvi,지체없는 흐름의 바람,epic
+146,onzwvi,따르는 광기의 기운,epic
+147,out6vi,운명을 마주하는 자,epic
+148,ow1rvi,몰아치는 바람의 의지,epic
+149,ozyg7i,라스트 인파이팅,epic
+150,p0avvi,벨리알 : 멸망의 씨앗,epic
+151,p47tvi,길 안내자의 계절,epic
+152,p67kui,전장의 열정 : 앵거바딜,epic
+153,p6cevi,심연에 빠진 검은 셔츠,epic
+154,pl15vi,군신의 가호가 담긴 보석,epic
+155,plhvvi,바라는 삶의 투지,epic
+156,ppduvi,강철을 뜯는 이빨,epic
+157,put6vi,영원을 새긴 바다,myth
+158,pxy07i,샤프 쉐도어,epic
+159,q0avvi,무한한 마나의 심장,epic
+160,q47tvi,비통한 자의 목걸이,epic
+161,ql15vi,지혜를 담은 대지,epic
+162,qlhvvi,트로피카 : 두리안,epic
+163,qpduvi,구속의 체인 벨트,epic
+164,qut6vi,또다른 시간의 흐름,myth
+165,qxvevi,죽음을 덮치는 그림자 재킷,epic
+166,qxy07i,암살단장의 옥장도,epic
+167,qzmzui,하티 - 달을 탐하는 자,epic
+168,r6cevi,대제사장의 예복,myth
+169,ri3evi,나락의 끝자락,epic
+170,rl15vi,암흑술사의 정수,epic
+171,rndrvi,지체없는 흐름의 한뉘,epic
+172,rnzwvi,아몬 : 거짓된 힘,epic
+173,rut6vi,차원을 관통하는 초신성,myth
+174,ryqrvi,매혹적인 리듬의 룸바,epic
+175,s0avvi,구속의 폴드런,epic
+176,s47tvi,과격한 분노의 격앙,epic
+177,sl15vi,시간의 소용돌이,epic
+178,slhvvi,에큐레이트 파워 숄더,epic
+179,sut6vi,플라즈마 초 진공관,myth
+180,sxvevi,고귀한 집행자의 제복 자켓,epic
+181,sxvvvi,고대 제사장의 띠,epic
+182,szmzui,판데모니엄 플레임,epic
+183,t7jrvi,결속의 체인 플레이트,myth
+184,tj3vvi,죽음을 덮치는 그림자 벨트,epic
+185,tp1j1i,프로젝트 : 오버코어,epic
+186,u3i5vi,하얀 코끼리의 가호,epic
+187,u79d7i,눈부신 영광,epic
+188,u7jrvi,천상의 날개,myth
+189,uc9k6i,순백의 기도,epic
+190,ud35ui,일렉트로 부스터,epic
+191,ul15vi,폭주하는 광란의 힘,epic
+192,up1j1i,베투스 코르,epic
+193,v1czui,데우스 이미저리,epic
+194,v3i5vi,새벽을 감싸는 따스함,epic
+195,v6cevi,낭만적인 선율의 왈츠,myth
+196,v79d7i,포 더 세크리드,epic
+197,v7jrvi,사탄 : 분노의 군주,myth
+198,v9ewvi,즉흥적인 감각의 탱고,epic
+199,vc9k6i,세계수의 요정,epic
+200,vd35ui,블레이즈 헌터,epic
+201,vl15vi,적막이 흐르는 아우성,epic
+202,vnzwvi,구속의 퀴스,epic
+203,vut6vi,아린 고통의 비극,myth
+204,w1czui,카심의 대검,epic
+205,w3i5vi,라이도 : 이동의 규율,epic
+206,w6cevi,대 마법사 [???]의 로브,myth
+207,w9ewvi,마법사 [???]의 망토,epic
+208,wl15vi,시간에 갇혀버린 모래,epic
+209,wndrvi,무의식적 선택,epic
+210,wnzwvi,사악한 형상의 뿔,epic
+211,wut6vi,운명을 거스르는 자,myth
+212,wyqrvi,어둠을 파헤치는 바지,epic
+213,x0w33i,통곡의 수문장,epic
+214,x1nwvi,임의 선택,epic
+215,x47tvi,달빛을 가두는 여명,epic
+216,x6juvi,수호하는 전사의 고난,epic
+217,x8fg7i,이교도 교주의 심판,epic
+218,x9ewvi,고대 제사장의 견대,epic
+219,xut6vi,차원을 맴도는 혜성,epic
+220,y7jrvi,페어리의 몸짓,epic
+221,ybk17i,블러드 루비아이,epic
+222,yjxtvi,융합된 자연의 핵,epic
+223,yut6vi,마음을 새긴 바다,epic
+224,yw1rvi,본능적인 외침,epic
+225,zac33i,전장의 선봉장,epic
+226,zcb1ti,블러드 샷 부스터,epic
+227,zj3evi,작열하는 대지의 용맹,myth
+228,znztvi,희비교차,epic
+229,zp7wvi,죽음을 덮치는 그림자 견갑,epic
+230,zqig7i,고대 신수의 기억,epic
+231,zqy5vi,어둠을 지배하는 고리,epic
+232,zu1uvi,죽음을 덮치는 그림자 부츠,epic
